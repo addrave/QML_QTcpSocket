@@ -6,7 +6,6 @@
 #include <QQmlApplicationEngine>
 #include <QQuickView>
 #include <QQmlContext>
-#include "qjsonmodel.h"
 #include "Client.h"
 
 
